@@ -1,0 +1,8 @@
+*.iml
+*.iws
+*.ipr
+target/
+build/
+.idea/
+.allure
+
